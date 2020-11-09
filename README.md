@@ -10,6 +10,9 @@ Lei Xie, Ph.D. Professor, Computer Science, Hunter College, CUNY
 
 [http://compsci.hunter.cuny.edu/~leixie/](http://compsci.hunter.cuny.edu/~leixie/)
 
+### 3. The GitBook site of this wiki:
+[GitBook](https://compsci-hunter.gitbook.io/xie-research-group/)
+
 ### 3. Current Members
 
 | Name | Email |
